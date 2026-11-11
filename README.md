@@ -1,18 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Screenshot
+<img width="1920" height="1080" alt="Screenshot 2026-06-18 102544" src="https://github.com/user-attachments/assets/a175bc13-0625-4a0c-a9ed-b4d8feaaf714" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-18 102558" src="https://github.com/user-attachments/assets/ba71442a-39b6-4ea1-8cb1-cb51e11166e5" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-18 102620" src="https://github.com/user-attachments/assets/449ac97c-1804-487f-9322-efdf3f16f779" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-18 102634" src="https://github.com/user-attachments/assets/bfd566c6-3568-42a7-9ff4-6f81b6b9e680" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-18 102955" src="https://github.com/user-attachments/assets/baa0171a-5c14-4914-a9a8-070a45e0b0b7" />
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
