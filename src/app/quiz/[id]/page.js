@@ -5,7 +5,7 @@ import { DEFAULT_QUIZZES, getCustomQuestions } from '@/lib/quizData';
 
 export default function TakeQuiz({ params }) {
   // Unwrap Next.js 15+ promise-based params
-  const resolvedParams = use(params);
+  let resolvedParams = use(params);
   const quizId = resolvedParams?.id || 'web-dev';
 
   const [quizTitle, setQuizTitle] = useState('');
